@@ -2,11 +2,16 @@ body {
   margin: 0;
   padding: 0;
 }
-
-.card {
-  height: 10rem;
+.banner {
+  height: 15rem;
 }
 
-.card-img-overlay {
-  padding-top: 3rem;
+.pagenav {
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+.card-wrapper {
+  height: 20rem;
 }

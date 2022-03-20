@@ -3,7 +3,7 @@ import React from "react";
 export default function Banner() {
   return (
     <>
-      <div className="card bg-dark text-white">
+      <div className="card bg-dark banner text-white relative">
         <img src="" className="card-img" alt="card_img" />
         <div className="card-img-overlay">
           <h5 className="card-title">Card title</h5>
